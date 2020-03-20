@@ -2,6 +2,10 @@
 
 This is the first file in this repo.
 
-## Ipsum Below
+## Message below
 
 Hello my friend.
+
+## Another message below
+
+Hello again my friend.
