@@ -2,10 +2,6 @@
 
 This is the first file in this repo.
 
-## Message below
+## Website Contents
 
-Hello my friend.
-
-## Another message below
-
-Hello again my friend.
+1. index.html
